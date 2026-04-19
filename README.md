@@ -19,7 +19,7 @@ It includes a **20-item multiple choice exam**, timer system, and score calculat
 
 ## 🖼️ Project Preview
 
-<img src="https://via.placeholder.com/900x400.png?text=Internet+History+Quiz+System+Preview" />
+<img src="Images/SampleQuiz.png" />
 
 ---
 
