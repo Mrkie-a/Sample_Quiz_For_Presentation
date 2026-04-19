@@ -37,7 +37,7 @@ It includes a **20-item multiple choice exam**, timer system, and score calculat
 </a>
 <br>
 💻 Full Stack Developer  
-Backend | Database | Logic | JavaScript Developer
+Backend | Database <br> | Logic | JavaScript Developer
 </td>
 
 <td align="center">
