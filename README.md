@@ -31,14 +31,14 @@ It includes a **20-item multiple choice exam**, timer system, and score calculat
 <tr>
 
 <td align="center">
-<img src="https://via.placeholder.com/150.png?text=Member+1" width="120" style="border-radius:50%"><br>
+<a href="https://github.com/Mrkie-a" width="120" style="border-radius:50%"><br>
 <b>Markie Evan C. Conjares</b><br>
 💻 Full Stack Developer<br>
 Backend | Database | Logic | JavaScript Developer
 </td>
 
 <td align="center">
-<img src="https://via.placeholder.com/150.png?text=Member+2" width="120" style="border-radius:50%"><br>
+<a src="https://via.placeholder.com/150.png?text=Member+2" width="120" style="border-radius:50%"><br>
 <b>Ma Quizzy Francine Doctolero</b><br>
 🎨 Frontend Developer<br>
 UI Design | CSS Styling <br>
