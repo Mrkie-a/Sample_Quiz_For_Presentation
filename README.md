@@ -20,6 +20,7 @@ It includes a **20-item multiple choice exam**, timer system, and score calculat
 ## 🖼️ Project Preview
 
 <img src="Images/SampleQuiz.png" />
+<img src="Images/SampleQuiz2.png" />
 
 ---
 
