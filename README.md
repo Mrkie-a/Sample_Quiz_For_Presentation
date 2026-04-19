@@ -37,8 +37,8 @@ It includes a **20-item multiple choice exam**, timer system, and score calculat
 <b>Markie Evan C. Conjares</b>
 </a>
 <br>
-💻 Full Stack Developer  
-Backend | Database <br> | Logic | JavaScript Developer
+💻 Full Stack Developer <br>  
+Backend | Database | Logic | JavaScript Developer
 </td>
 
 <td align="center">
