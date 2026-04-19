@@ -19,7 +19,7 @@ It includes a **20-item multiple choice exam**, timer system, and score calculat
 
 ## 🖼️ Project Preview
 
-<img src="https://via.placeholder.com/900x400.png?text=Internet+History+Quiz+System+Preview" alt="Project Preview" />
+<img src="https://via.placeholder.com/900x400.png?text=Internet+History+Quiz+System+Preview" />
 
 ---
 
@@ -31,25 +31,27 @@ It includes a **20-item multiple choice exam**, timer system, and score calculat
 <tr>
 
 <td align="center">
-<a href="https://github.com/Mrkie-a" width="120" style="border-radius:50%"><br>
-<b>Markie Evan C. Conjares</b><br>
-💻 Full Stack Developer<br>
+<img src="https://github.com/Mrkie-a.png" width="120" style="border-radius:50%"><br>
+<a href="https://github.com/Mrkie-a">
+<b>Markie Evan C. Conjares</b>
+</a>
+<br>
+💻 Full Stack Developer  
 Backend | Database | Logic | JavaScript Developer
 </td>
 
 <td align="center">
-<a src="https://via.placeholder.com/150.png?text=Member+2" width="120" style="border-radius:50%"><br>
+<img src="https://via.placeholder.com/150.png?text=Member+2" width="120" style="border-radius:50%"><br>
 <b>Ma Quizzy Francine Doctolero</b><br>
 🎨 Frontend Developer<br>
-UI Design | CSS Styling <br>
-Timer System | Quiz Logic
+UI Design | CSS Styling | Quiz Logic
 </td>
 
 <td align="center">
 <img src="https://via.placeholder.com/150.png?text=Member+3" width="120" style="border-radius:50%"><br>
 <b>Angelo D. Nonial</b><br>
 🎨 Frontend Developer<br>
-UI Design | CSS Styling <br>
+UI Design | CSS Styling
 </td>
 
 </tr>
@@ -88,11 +90,6 @@ UI Design | CSS Styling <br>
 
 ---
 
-## 📁 Project Structure
-
-
----
-
 ## ⚙️ How It Works
 
 1. Student enters name & course  
@@ -102,7 +99,6 @@ UI Design | CSS Styling <br>
 5. Results saved in database  
 
 ---
-
 
 ## 🎯 Project Goal
 
@@ -121,5 +117,3 @@ To build a simple but functional **online quiz system** that demonstrates:
 - 📱 Mobile optimization  
 - 👨‍🏫 Admin dashboard  
 - 🎨 Modern UI redesign  
-
----
