@@ -42,14 +42,14 @@ Backend | Database | Logic | JavaScript Developer
 </td>
 
 <td align="center">
-<img src="https://via.placeholder.com/150.png?text=Member+2" width="120" style="border-radius:50%"><br>
+<img src="https://ph.pinterest.com/pin/211174975311576/" width="120" style="border-radius:50%"><br>
 <b>Ma Quizzy Francine Doctolero</b><br>
 🎨 Frontend Developer<br>
 UI Design | CSS Styling | Quiz Logic
 </td>
 
 <td align="center">
-<img src="https://via.placeholder.com/150.png?text=Member+3" width="120" style="border-radius:50%"><br>
+<img src="https://ph.pinterest.com/pin/211174975311576/" width="120" style="border-radius:50%"><br>
 <b>Angelo D. Nonial</b><br>
 🎨 Frontend Developer<br>
 UI Design | CSS Styling
